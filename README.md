@@ -34,6 +34,6 @@ This Java program allows users to enter student data — including name, address
    ```sh
    javac Student.java StudentManager.java
 
-## Scree<img width="517" height="441" alt="Screenshot 2025-08-03 at 12 15 16 PM" src="https://github.com/user-attachments/assets/2c47cd3c-8568-4df7-9c34-cf707ad3fd4d" />
-nshots
+## Screenshots
+<img width="517" height="441" alt="Screenshot 2025-08-03 at 12 15 16 PM" src="https://github.com/user-attachments/assets/2c47cd3c-8568-4df7-9c34-cf707ad3fd4d" />
 <img width="517" height="170" alt="Screenshot 2025-08-03 at 12 15 37 PM" src="https://github.com/user-attachments/assets/13992fdc-0aea-4168-9f4d-c8c160218f46" />
